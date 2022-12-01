@@ -3,3 +3,4 @@
 一个简洁的typecho主题
 
 ![plot](screenshot.png)
+![plot](screenshot2.png)
