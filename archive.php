@@ -19,5 +19,6 @@
 </div>
 <?php $this->pageNav('&laquo; 前一页', '后一页 &raquo;'); ?>
 </div>
+</div>
 
 <?php $this->need('footer.php'); ?>
